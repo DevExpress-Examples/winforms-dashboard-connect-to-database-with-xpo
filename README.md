@@ -1,16 +1,17 @@
-# How To Bind WinForms Dashboard Viewer to XPO Persistent Class Data
+<!-- default file list -->
+*Files to look at*:
+* [DashboardForm.Designer.cs](./CS/DashboardXpoDemo/DashboardForm.Designer.cs) (VB: [DashboardForm.Designer.vb](./VB/DashboardForm.Designer.vb))
+* [Dashboard1.Designer.cs](./CS/DashboardXpoDemo/Dashboard1.Designer.cs) (VB: [Dashboard1.Designer.vb](./VB/Dashboard1.Designer.vb))
+* [DataAccess](./CS/DashboardXpoDemo/DataAccess) (VB: [DataAccess](./VB/DataAccess))
+<!-- default file list end -->
 
-We created the *DevExpress.DashboardCommon.DashboardXpoDataSource* component to help XPO users bind their persistent class data to DevExpress Dashboard (DevExpress Dashboard is part of the Universal Subscription).
+# How to Bind a Dashboard to the XPO Data Source at Design-Time
 
-You can configure the new component as follows:
-1. In code (at runtime):
-```
-this.dashboardXpoDataSource1.ComponentName = "dashboardXpoDataSource1";
-this.dashboardXpoDataSource1.ConnectionStringName = "XpoTutorial"; // Refers to the connection string in the application's configuration file.
-this.dashboardXpoDataSource1.EntityTypeString = "DashboardXpoDemo.DataAccess.RevenueAnalysisDataItem, DashboardXpoDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null";
-```
+This example creates a dashboard at design-time, binds it to the [DevExpress.DashboardCommon.DashboardXpoDataSource](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardXpoDataSource?v=19.2) using the Data Source Wizard and displays it in the [DashboardViewer](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer) control.
 
-2. Using the built-in dashboard Data Source Wizard:
 ![](https://github.com/DevExpress-Examples/winforms-dashboard-connect-to-database-with-xpo/blob/19.2.3%2B/DashboardXpoDataSource1.png)
 ![](https://github.com/DevExpress-Examples/winforms-dashboard-connect-to-database-with-xpo/blob/19.2.3%2B/DashboardXpoDataSource11.png)
 ![](https://github.com/DevExpress-Examples/winforms-dashboard-connect-to-database-with-xpo/blob/19.2.3%2B/DashboardXpoDataSource2.png)
+ 
+## See Also
+[How to Bind a Dashboard to the XPO Data Source at Runtime](https://github.com/DevExpress-Examples/winforms-dashboard-xpo-data-source).
