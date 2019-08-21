@@ -9,9 +9,9 @@
 
 This example creates a dashboard at design-time, binds it to the [DevExpress.DashboardCommon.DashboardXpoDataSource](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardXpoDataSource?v=19.2) using the Data Source Wizard and displays it in the [DashboardViewer](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer) control.
 
-![](https://github.com/DevExpress-Examples/winforms-dashboard-connect-to-database-with-xpo/blob/19.2.3%2B/DashboardXpoDataSource1.png)
-![](https://github.com/DevExpress-Examples/winforms-dashboard-connect-to-database-with-xpo/blob/19.2.3%2B/DashboardXpoDataSource11.png)
-![](https://github.com/DevExpress-Examples/winforms-dashboard-connect-to-database-with-xpo/blob/19.2.3%2B/DashboardXpoDataSource2.png)
+![](https://github.com/DevExpress-Examples/winforms-dashboard-connect-to-database-with-xpo/blob/19.2.1%2B/DashboardXpoDataSource1.png)
+![](https://github.com/DevExpress-Examples/winforms-dashboard-connect-to-database-with-xpo/blob/19.2.1%2B/DashboardXpoDataSource11.png)
+![](https://github.com/DevExpress-Examples/winforms-dashboard-connect-to-database-with-xpo/blob/19.2.1%2B/DashboardXpoDataSource2.png)
  
 ## See Also
 [How to Bind a Dashboard to the XPO Data Source at Runtime](https://github.com/DevExpress-Examples/winforms-dashboard-xpo-data-source).
