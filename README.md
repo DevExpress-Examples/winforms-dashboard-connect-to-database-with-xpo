@@ -1,6 +1,6 @@
 <!-- default file list -->
 *Files to look at*:
-* [DashboardForm.Designer.cs](./CS/DashboardXpoDemo/DashboardForm.Designer.cs) (VB: [DashboardForm.Designer.vb](./VB/DashboardForm.Designer.vb))
+* [DashboardForm.Designer.cs](./CS/DashboardXpoDemo/DashboardForm.Designer.cs) (VB: [DashboardForm.Designer.vb](./VB/DashboardXpoDemo/DashboardForm.Designer.vb))
 * [Dashboard1.Designer.cs](./CS/DashboardXpoDemo/Dashboard1.Designer.cs) (VB: [Dashboard1.Designer.vb](./VB/DashboardXpoDemo/Dashboard1.Designer.vb))
 * [DataAccess](./CS/DashboardXpoDemo/DataAccess) (VB: [DataAccess](./VB/DashboardXpoDemo/DataAccess))
 <!-- default file list end -->
