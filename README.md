@@ -15,7 +15,9 @@
 This example creates a dashboard at design-time, binds it to the [DevExpress.DashboardCommon.DashboardXpoDataSource](https://docs.devexpress.com/Dashboard/DevExpress.DashboardCommon.DashboardXpoDataSource?v=19.2) using the Data Source Wizard and displays it in the [DashboardViewer](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer) control.
 
 ![](./DashboardXpoDataSource1.png)
+
 ![](./DashboardXpoDataSource11.png)
+
 ![](./DashboardXpoDataSource2.png)
  
 ## See Also
