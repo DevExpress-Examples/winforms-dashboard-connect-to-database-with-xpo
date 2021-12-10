@@ -7,7 +7,8 @@
 *Files to look at*:
 * [DashboardForm.Designer.cs](./CS/DashboardXpoDemo/DashboardForm.Designer.cs) (VB: [DashboardForm.Designer.vb](./VB/DashboardXpoDemo/DashboardForm.Designer.vb))
 * [Dashboard1.Designer.cs](./CS/DashboardXpoDemo/Dashboard1.Designer.cs) (VB: [Dashboard1.Designer.vb](./VB/DashboardXpoDemo/Dashboard1.Designer.vb))
-* [DataAccess](./CS/DashboardXpoDemo/DataAccess) (VB: [DataAccess](./VB/DashboardXpoDemo/DataAccess))
+* [DemoDataHelper.cs](./CS/DashboardXpoDemo/DataAccess/DemoDataHelper.cs) (VB: [DemoDataHelper.vb](./VB/DashboardXpoDemo/DataAccess/DemoDataHelper.vb))
+* [RevenueAnalysisDataItem.cs](./CS/DashboardXpoDemo/DataAccess/RevenueAnalysisDataItem.cs) (VB: [RevenueAnalysisDataItem.vb](./VB/DashboardXpoDemo/DataAccess/RevenueAnalysisDataItem.vb))
 <!-- default file list end -->
 
 # How to Bind a Dashboard to the XPO Data Source at Design-Time
